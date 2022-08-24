@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriverService;
 
 import java.util.logging.Level;
 
+
 public class Base {
 
     WebDriver driver;
